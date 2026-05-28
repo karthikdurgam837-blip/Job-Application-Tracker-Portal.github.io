@@ -1,0 +1,6 @@
+{
+  "name": "Job Application Tracker Portal",
+  "description": "Full-stack application to track job applications, stages, deadlines, smart resumes, checklists, and visual analytics dashboards for placements and portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
